@@ -67,6 +67,7 @@
   - [OtterSec ZK Token SDK Audit (2023-11-04).pdf](./spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf)
   - [Halborn Audit (2024-03-08).pdf](./spl/HalbornToken2022Audit-2024-03-08.pdf)
   - [Certora Audit (2024-05-24).pdf](./spl/CertoraToken2022Audit-2024-05-24.pdf)
+  - [Code4rena Audit (2025-11-5).pdf](./spl/Code4renaXSolanaFoundation-2025-11-5.pdf)
 
 ### Account Compression
 
