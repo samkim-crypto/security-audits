@@ -67,6 +67,10 @@
   - [OtterSec ZK Token SDK Audit (2023-11-04).pdf](./spl/OtterSecZkTokenSdkAudit-2023-11-04.pdf)
   - [Halborn Audit (2024-03-08).pdf](./spl/HalbornToken2022Audit-2024-03-08.pdf)
   - [Certora Audit (2024-05-24).pdf](./spl/CertoraToken2022Audit-2024-05-24.pdf)
+  - [Least Authority Audit (2025-11-10).pdf](./spl/LeastAuthorityToken2022Audit-2025-11-10.pdf)
+  - [ZKSecurity Audit (2025-09-16).pdf](./spl/ZKSecurityToken2022Audit-2025-09-16.pdf)
+  - [Trail of Bits Audit A (2026-01-30).pdf](./spl/TrailOfBitsToken2022AuditA-2026-01-30.pdf)
+  - [Trail of Bits Audit B (2026-01-30).pdf](./spl/TrailOfBitsToken2022AuditB-2026-01-30.pdf)
   - [Code4rena Audit (2025-11-5).pdf](./spl/Code4renaXSolanaFoundation-2025-11-5.pdf)
   - [Zellic Audit (2025-12-16).pdf](./spl/ZellicToken2022Audit-2025-12-16.pdf)
 
